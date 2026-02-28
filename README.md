@@ -18,8 +18,6 @@
   </table>
 </div>
 
-<br/><br/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=00BFA5&center=true&vCenter=true&width=900&lines=⚔️+GAME+DEVELOPER+BY+PASSION;🌊+RIDING+THE+WAVE+OF+CODE;🏄+SURFING+THROUGH+EVERY+BUG;🐚+BUILDING+WORLDS+FROM+SCRATCH;💀+DEAD+ON!!+—+NO+SPAGHETTI+CODE)](https://git.io/typing-svg)
 
 <br/>
