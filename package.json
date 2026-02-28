@@ -1,0 +1,13 @@
+{
+  "name": "ocean-metaverse-engine",
+  "version": "3.0.0",
+  "description": "Modular SVG Generator for GitHub Profile",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "node-fetch": "^2.6.7"
+  }
+}

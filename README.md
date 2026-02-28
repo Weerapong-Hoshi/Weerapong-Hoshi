@@ -1,103 +1,117 @@
-# 👋 Hi, I'm Weerapong (Hoshi)
-🎮 Game Developer | 💻 Systems-Oriented Programmer | ⚙️ Multi-language Dev
+<!-- 🌊 CAPSULE RENDER — OCEAN WAVE HEADER -->
+
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=220&section=header&text=WEERAPONG%20HOSHI&fontSize=52&fontColor=E0F7FA&animation=twinkling&fontAlignY=38&desc=🌊%20Game%20Developer%20%7C%20Unity%20Enjoyer%20%7C%20Riding%20The%20Wave&descAlignY=62&descSize=17&descColor=80DEEA)
+
+</div>
 
 ---
 
-## 🧠 About Me
-- 🎓 IT / Computer Science Student  
-- 🎮 Focused on **Game Development & Combat Systems**
-- 🧩 Enjoy building **low-level logic & reusable systems**
-- 🔥 Interested in fast-paced **Hack & Slash / Combat Games**
-- 🚀 Goal: Become a **Professional Game / Software Developer**
+<div align="center">
+  <table border="0">
+    <tr>
+      <td style="border: 2px solid #00BFA5; border-radius: 20px; padding: 12px; background-color: #0D1B2A;">
+        <img src="assets/art.gif" width="640" style="border-radius: 14px; display: block;"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-> I value **system design, performance, and clarity** over shortcuts.
+<div align="center">
 
----
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Weerapong-Hoshi.Weerapong-Hoshi&left_color=0D1B2A&right_color=00BFA5&left_text=🌊%20Visitors)
 
-## 🔥 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</div>
 
----
+<br/><br/>
 
-## 🧱 Frameworks & Platforms
-![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=for-the-badge&logo=laravel)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=00BFA5&center=true&vCenter=true&width=900&lines=⚔️+GAME+DEVELOPER+BY+PASSION;🌊+RIDING+THE+WAVE+OF+CODE;🏄+SURFING+THROUGH+EVERY+BUG;🐚+BUILDING+WORLDS+FROM+SCRATCH;💀+DEAD+ON!!+—+NO+SPAGHETTI+CODE)](https://git.io/typing-svg)
 
----
+<br/>
 
-## 🧰 Tools & Software
-![Visual Studio](https://img.shields.io/badge/Visual_Studio_2026-5C2D91?style=for-the-badge&logo=visualstudio)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
-![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Bruno](https://img.shields.io/badge/Bruno-000000?style=for-the-badge)
+[![](https://img.shields.io/badge/⚔️%20CLASS-Game%20Developer-00BFA5?style=for-the-badge&labelColor=0D1B2A)](.)
+[![](https://img.shields.io/badge/🎮%20ENGINE-Unity%20%7C%20Unreal-FFD166?style=for-the-badge&labelColor=0D1B2A)](.)
+[![](https://img.shields.io/badge/💻%20LANG-C%23%20%7C%20C%2B%2B-80DEEA?style=for-the-badge&labelColor=0D1B2A)](.)
+[![](https://img.shields.io/badge/🌊%20STATUS-Riding%20The%20Wave-FF6B6B?style=for-the-badge&labelColor=0D1B2A)](.)
+
+</div>
 
 ---
 
-## 🎮 Genre Interest
-- ⚔️ **Hack and Slash**
-- 🥊 **Combat-focused Games**
-- 💥 Fast-paced action & skill-based mechanics
+<div align="center">
+
+> ## 🌊 _"The ocean doesn't stop. Neither does my commit streak."_ ⚔️
+>
+> #### 🐚 One who dives deep. One who **surfaces** with great games. 🏗️
+
+</div>
 
 ---
 
-## 🧠 Development Focus
-- Combat System Architecture
-- Player Controller & Animation Sync
-- Skill / Combo / Hitbox Logic
-- Performance-oriented Design
-- Clean Code & Modular Systems
+## 🌊 OCEAN METAVERSE — LIVE WORLD
+
+<div align="center">
+
+<!-- Layer 1: Sky & Boss -->
+<img src="./assets/ocean_sky.svg" width="100%" style="display:block; margin-bottom:-4px;"/>
+
+<!-- Layer 2: Sea & Whale -->
+<img src="./assets/ocean_sea.svg" width="100%" style="display:block; margin-bottom:-4px;"/>
+
+<!-- Layer 3: Map & Island -->
+<img src="./assets/ocean_map.svg" width="100%" style="display:block;"/>
+
+</div>
+
+## 🗡️ `SKILL TREE — ABYSS EXPEDITION`
+
+<div align="center">
+  <img src="./assets/skill_abyss.svg" width="450px"/>
+</div>
+
+## 📊 `BATTLE STATS — AQUARIUM`
+
+<div align="center">
+  <img src="./assets/ocean_stats.svg" width="100%"/>
+</div>
+
+## 🐚 `SKILL RACE — ARSENAL BEACH`
+
+<div align="center">
+  <img src="./assets/skill_beach.svg" width="100%"/>
+</div>
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Weerapong-Hoshi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Weerapong-Hoshi&layout=compact&theme=tokyonight)
+## 🏄 `CURRENT WAVE — WHAT I'M WORKING ON`
+
+<div align="center">
+
+```
+🌊 Riding the Unity wave
+🐚 Exploring Unreal Engine depths
+⚔️  Crafting hack & slash mechanics
+🎮 Building worlds, one commit at a time
+```
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
-> Pin these on your profile
+<div align="center">
 
-- 🎮 **Combat Game Prototype**
-  - Hack & Slash mechanics
-  - Combo / Skill System
-  - Enemy AI & State Machine
+[![](https://img.shields.io/badge/🌊-RIDE%20THE%20WAVE-00BFA5?style=for-the-badge&labelColor=0D1B2A)](.)
+[![](https://img.shields.io/badge/💀-NO%20SPAGHETTI%20CODE-FF6B6B?style=for-the-badge&labelColor=0D1B2A)](.)
+[![](https://img.shields.io/badge/🔥-DEAD%20ON!!-FFD166?style=for-the-badge&labelColor=0D1B2A)](.)
+[![](https://img.shields.io/badge/🎮-ALWAYS%20GRINDING-80DEEA?style=for-the-badge&labelColor=0D1B2A)](.)
 
-- 🌐 **System / Backend Projects**
-  - REST API (Laravel / ASP.NET)
-  - Tooling & Automation Scripts
+<br/>
 
-- 🧩 **Reusable System Library**
-  - Clean C# Architecture
-  - Data-driven design
+> ## 🌊 _"Good games are felt. Great games are engineered."_ ⚔️
 
----
+<br/>
 
-## 🎯 Philosophy
-- ❌ No spaghetti code
-- ✅ Systems before visuals
-- ✅ Readable > clever
-- ✅ Refactor is part of development
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=130&section=footer&animation=twinkling)
 
----
-
-## 📫 Contact
-- 💬 Discord: your_discord_here
-- 📧 Email: your_email_here
-
-> “Good games are felt.  
-> Great games are engineered.”
+</div>
