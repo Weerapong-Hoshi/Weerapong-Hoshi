@@ -18,12 +18,6 @@
   </table>
 </div>
 
-<div align="center">
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Weerapong-Hoshi.Weerapong-Hoshi&left_color=0D1B2A&right_color=00BFA5&left_text=🌊%20Visitors)
-
-</div>
-
 <br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=00BFA5&center=true&vCenter=true&width=900&lines=⚔️+GAME+DEVELOPER+BY+PASSION;🌊+RIDING+THE+WAVE+OF+CODE;🏄+SURFING+THROUGH+EVERY+BUG;🐚+BUILDING+WORLDS+FROM+SCRATCH;💀+DEAD+ON!!+—+NO+SPAGHETTI+CODE)](https://git.io/typing-svg)
@@ -34,16 +28,6 @@
 [![](https://img.shields.io/badge/🎮%20ENGINE-Unity%20%7C%20Unreal-FFD166?style=for-the-badge&labelColor=0D1B2A)](.)
 [![](https://img.shields.io/badge/💻%20LANG-C%23%20%7C%20C%2B%2B-80DEEA?style=for-the-badge&labelColor=0D1B2A)](.)
 [![](https://img.shields.io/badge/🌊%20STATUS-Riding%20The%20Wave-FF6B6B?style=for-the-badge&labelColor=0D1B2A)](.)
-
-</div>
-
----
-
-<div align="center">
-
-> ## 🌊 _"The ocean doesn't stop. Neither does my commit streak."_ ⚔️
->
-> #### 🐚 One who dives deep. One who **surfaces** with great games. 🏗️
 
 </div>
 
@@ -84,33 +68,12 @@
 
 ---
 
-## 🏄 `CURRENT WAVE — WHAT I'M WORKING ON`
-
-<div align="center">
-
-```
-🌊 Riding the Unity wave
-🐚 Exploring Unreal Engine depths
-⚔️  Crafting hack & slash mechanics
-🎮 Building worlds, one commit at a time
-```
-
-</div>
-
----
-
 <div align="center">
 
 [![](https://img.shields.io/badge/🌊-RIDE%20THE%20WAVE-00BFA5?style=for-the-badge&labelColor=0D1B2A)](.)
 [![](https://img.shields.io/badge/💀-NO%20SPAGHETTI%20CODE-FF6B6B?style=for-the-badge&labelColor=0D1B2A)](.)
 [![](https://img.shields.io/badge/🔥-DEAD%20ON!!-FFD166?style=for-the-badge&labelColor=0D1B2A)](.)
 [![](https://img.shields.io/badge/🎮-ALWAYS%20GRINDING-80DEEA?style=for-the-badge&labelColor=0D1B2A)](.)
-
-<br/>
-
-> ## 🌊 _"Good games are felt. Great games are engineered."_ ⚔️
-
-<br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=130&section=footer&animation=twinkling)
 
