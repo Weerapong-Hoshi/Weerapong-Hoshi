@@ -1,0 +1,301 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 450" width="900" height="450">
+  <defs>
+    <linearGradient id="deepGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#002D4D"/><stop offset="100%" stop-color="#000A14"/>
+    </linearGradient>
+    <linearGradient id="sandGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFE082"/><stop offset="100%" stop-color="#F9A825"/>
+    </linearGradient>
+    <path id="whalePath" d="M 100,160 A 350,110 0 1,1 800,160 A 350,110 0 1,1 100,160" fill="none"/>
+  </defs>
+
+  <!-- Tank Background -->
+  <rect width="900" height="450" fill="#000" rx="25"/>
+  <rect x="10" y="10" width="880" height="430" fill="url(#deepGrad)" rx="20"/>
+
+  <!-- 1. พื้นทรายแบบจัดเต็ม -->
+  <rect y="350" width="900" height="100" fill="url(#sandGrad)"/>
+
+  <!-- 2. ของตกแต่งแบบยัดแน่นล้นจอ (Density Max!) -->
+  
+    <g transform="translate(60, 365) rotate(15)">
+      <rect x="-2" y="-40" width="4" height="40" fill="#455A64"/>
+      <circle cx="0" cy="-42" r="5" fill="none" stroke="#455A64" stroke-width="3"/>
+      <path d="M -15 -10 Q 0 5 15 -10" fill="none" stroke="#455A64" stroke-width="4" stroke-linecap="round"/>
+    </g>
+  
+    <g transform="translate(110, 370)">
+      <path d="M 0 0 Q -15 -30 0 -60 M 8 -5 Q 20 -25 10 -45 M -8 -5 Q -25 -20 -15 -40" stroke="#2E7D32" stroke-width="4" fill="none" stroke-linecap="round">
+        <animateTransform attributeName="transform" type="skewX" values="-5;5;-5" dur="3s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  
+    <g transform="translate(190, 360)">
+      <rect x="-30" y="-75" width="60" height="95" fill="#37474F" rx="5"/>
+      <rect x="-8" y="-35" width="16" height="35" fill="#263238" rx="2"/>
+      <rect x="-22" y="-55" width="14" height="10" fill="#90A4AE"/>
+      <rect x="8" y="-55" width="14" height="10" fill="#90A4AE"/>
+      <rect x="-38" y="-40" width="12" height="30" fill="#263238" rx="2"/>
+      <rect x="26" y="-40" width="12" height="30" fill="#263238" rx="2"/>
+    </g>
+  
+    <g transform="translate(270, 375)">
+      <rect x="-12" y="-20" width="24" height="30" fill="#795548" rx="3"/>
+      <rect x="-12" y="-15" width="24" height="2" fill="#3E2723"/>
+      <rect x="-12" y="-5" width="24" height="2" fill="#3E2723"/>
+    </g>
+  
+    <g transform="translate(320, 380)">
+      <path d="M 0 0 Q -15 -30 0 -60 M 8 -5 Q 20 -25 10 -45 M -8 -5 Q -25 -20 -15 -40" stroke="#43A047" stroke-width="4" fill="none" stroke-linecap="round">
+        <animateTransform attributeName="transform" type="skewX" values="-5;5;-5" dur="3s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  
+    <g transform="translate(400, 355)">
+      <rect x="-30" y="-75" width="60" height="95" fill="#37474F" rx="5"/>
+      <rect x="-8" y="-35" width="16" height="35" fill="#263238" rx="2"/>
+      <rect x="-22" y="-55" width="14" height="10" fill="#90A4AE"/>
+      <rect x="8" y="-55" width="14" height="10" fill="#90A4AE"/>
+      <rect x="-38" y="-40" width="12" height="30" fill="#263238" rx="2"/>
+      <rect x="26" y="-40" width="12" height="30" fill="#263238" rx="2"/>
+    </g>
+  
+    <g transform="translate(480, 370)">
+      <rect x="-18" y="-12" width="36" height="24" fill="#5D4037" rx="2"/>
+      <rect x="-18" y="-12" width="36" height="8" fill="#795548" rx="2"/>
+      <circle cx="0" cy="-4" r="3" fill="#FFD700"/>
+    </g>
+  
+    <g transform="translate(540, 375)">
+      <path d="M 0 0 Q -15 -30 0 -60 M 8 -5 Q 20 -25 10 -45 M -8 -5 Q -25 -20 -15 -40" stroke="#9C27B0" stroke-width="4" fill="none" stroke-linecap="round">
+        <animateTransform attributeName="transform" type="skewX" values="-5;5;-5" dur="3s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  
+    <g transform="translate(600, 370)">
+      <rect x="-12" y="-20" width="24" height="30" fill="#795548" rx="3"/>
+      <rect x="-12" y="-15" width="24" height="2" fill="#3E2723"/>
+      <rect x="-12" y="-5" width="24" height="2" fill="#3E2723"/>
+    </g>
+  
+    <g transform="translate(680, 360)">
+      <rect x="-30" y="-75" width="60" height="95" fill="#37474F" rx="5"/>
+      <rect x="-8" y="-35" width="16" height="35" fill="#263238" rx="2"/>
+      <rect x="-22" y="-55" width="14" height="10" fill="#90A4AE"/>
+      <rect x="8" y="-55" width="14" height="10" fill="#90A4AE"/>
+      <rect x="-38" y="-40" width="12" height="30" fill="#263238" rx="2"/>
+      <rect x="26" y="-40" width="12" height="30" fill="#263238" rx="2"/>
+    </g>
+  
+    <g transform="translate(750, 370)">
+      <path d="M 0 0 Q -15 -30 0 -60 M 8 -5 Q 20 -25 10 -45 M -8 -5 Q -25 -20 -15 -40" stroke="#00838F" stroke-width="4" fill="none" stroke-linecap="round">
+        <animateTransform attributeName="transform" type="skewX" values="-5;5;-5" dur="3s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  
+    <g transform="translate(810, 365) rotate(15)">
+      <rect x="-2" y="-40" width="4" height="40" fill="#455A64"/>
+      <circle cx="0" cy="-42" r="5" fill="none" stroke="#455A64" stroke-width="3"/>
+      <path d="M -15 -10 Q 0 5 15 -10" fill="none" stroke="#455A64" stroke-width="4" stroke-linecap="round"/>
+    </g>
+  
+    <g transform="translate(860, 350)">
+      <ellipse cx="0" cy="0" rx="40" ry="50" fill="#FF9800" stroke="#BF360C" stroke-width="2"/>
+      <path d="M -30 -30 L 30 30 M -35 0 L 15 45 M 0 -45 L 35 15 M 30 -30 L -30 30 M 35 0 L -15 45 M 0 -45 L -35 15" stroke="#BF360C" stroke-width="1" opacity="0.3"/>
+      <circle cx="0" cy="25" r="12" fill="#455A64" stroke="#263238" stroke-width="2"/>
+      <circle cx="0" cy="25" r="8" fill="#CFD8DC"/>
+      <circle cx="20" cy="-10" r="7" fill="#B0BEC5" stroke="#263238" stroke-width="2"/>
+      <g transform="translate(0, -50)">
+         <path d="M 0 0 C -25 -20 -15 -50 0 -35 C 15 -50 25 -20 0 0" fill="#4CAF50" stroke="#1B5E20" stroke-width="2"/>
+      </g>
+    </g>
+  
+  <!-- ก้อนกรวดแบบสุ่ม -->
+  
+    <circle cx="0" cy="360" r="5.02553905405332" fill="#546E7A"/>
+  
+    <circle cx="31" cy="373" r="5.288743832126487" fill="#546E7A"/>
+  
+    <circle cx="62" cy="386" r="6.9005987839461" fill="#546E7A"/>
+  
+    <circle cx="93" cy="399" r="5.6008678779240775" fill="#546E7A"/>
+  
+    <circle cx="124" cy="412" r="4.812024187177192" fill="#546E7A"/>
+  
+    <circle cx="155" cy="425" r="3.956017917763581" fill="#546E7A"/>
+  
+    <circle cx="186" cy="368" r="3.0345751222743873" fill="#546E7A"/>
+  
+    <circle cx="217" cy="381" r="5.37664597247818" fill="#546E7A"/>
+  
+    <circle cx="248" cy="394" r="6.2289176369539465" fill="#546E7A"/>
+  
+    <circle cx="279" cy="407" r="5.554267864271642" fill="#546E7A"/>
+  
+    <circle cx="310" cy="420" r="3.4208506320117964" fill="#546E7A"/>
+  
+    <circle cx="341" cy="363" r="4.858944167385307" fill="#546E7A"/>
+  
+    <circle cx="372" cy="376" r="5.591466191364345" fill="#546E7A"/>
+  
+    <circle cx="403" cy="389" r="6.035651000535587" fill="#546E7A"/>
+  
+    <circle cx="434" cy="402" r="4.166790808778606" fill="#546E7A"/>
+  
+    <circle cx="465" cy="415" r="3.8456889065332875" fill="#546E7A"/>
+  
+    <circle cx="496" cy="428" r="5.430863037043592" fill="#546E7A"/>
+  
+    <circle cx="527" cy="371" r="3.1644631459464185" fill="#546E7A"/>
+  
+    <circle cx="558" cy="384" r="7.8938098888763" fill="#546E7A"/>
+  
+    <circle cx="589" cy="397" r="3.2543020248306895" fill="#546E7A"/>
+  
+    <circle cx="620" cy="410" r="6.959521197678459" fill="#546E7A"/>
+  
+    <circle cx="651" cy="423" r="3.1145140882319815" fill="#546E7A"/>
+  
+    <circle cx="682" cy="366" r="5.360623906675028" fill="#546E7A"/>
+  
+    <circle cx="713" cy="379" r="4.1032940575111985" fill="#546E7A"/>
+  
+    <circle cx="744" cy="392" r="5.674532999078002" fill="#546E7A"/>
+  
+    <circle cx="775" cy="405" r="5.4769221578333465" fill="#546E7A"/>
+  
+    <circle cx="806" cy="418" r="6.650548636998236" fill="#546E7A"/>
+  
+    <circle cx="837" cy="361" r="5.535255118195953" fill="#546E7A"/>
+  
+    <circle cx="868" cy="374" r="4.68109561596827" fill="#546E7A"/>
+  
+    <circle cx="899" cy="387" r="5.121213514539479" fill="#546E7A"/>
+  
+
+  <!-- 3. ฟองอากาศ -->
+  
+    <circle cx="40" cy="450" r="1" fill="white" opacity="0.2">
+      <animate attributeName="cy" values="450;-50" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="140" cy="450" r="2" fill="white" opacity="0.2">
+      <animate attributeName="cy" values="450;-50" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="240" cy="450" r="1" fill="white" opacity="0.2">
+      <animate attributeName="cy" values="450;-50" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="340" cy="450" r="2" fill="white" opacity="0.2">
+      <animate attributeName="cy" values="450;-50" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="440" cy="450" r="1" fill="white" opacity="0.2">
+      <animate attributeName="cy" values="450;-50" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="540" cy="450" r="2" fill="white" opacity="0.2">
+      <animate attributeName="cy" values="450;-50" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="640" cy="450" r="1" fill="white" opacity="0.2">
+      <animate attributeName="cy" values="450;-50" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="740" cy="450" r="2" fill="white" opacity="0.2">
+      <animate attributeName="cy" values="450;-50" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="840" cy="450" r="1" fill="white" opacity="0.2">
+      <animate attributeName="cy" values="450;-50" dur="6s" repeatCount="indefinite"/>
+    </circle>
+
+  <!-- 4. ฝูงปลา (Targets) -->
+  
+    <g transform="translate(180, 80)">
+      <g>
+        <!-- ปลาว่ายวนสุ่มไปมา (ไม่หยุดนิ่ง) -->
+        <animateMotion dur="3s" repeatCount="indefinite" path="M 0,0 C 20,20 -20,40 0,0" />
+        <g>
+          <ellipse rx="7" ry="4" fill="#FF5252"/>
+          <path d="M -4 0 L -12 -6 L -12 6 Z" fill="#FF5252"/>
+          <circle cx="3" cy="-1.5" r="1.2" fill="white"/>
+          <!-- หายไปทันทีเมื่อปากวาฬมาถึง -->
+          <animate attributeName="opacity" values="1;1;0;0;1" 
+            keyTimes="0; 0.14; 0.14166666666666666; 0.99; 1" 
+            dur="30s" repeatCount="indefinite" />
+        </g>
+      </g>
+    </g>
+    <g transform="translate(450, 55)">
+      <g>
+        <!-- ปลาว่ายวนสุ่มไปมา (ไม่หยุดนิ่ง) -->
+        <animateMotion dur="3s" repeatCount="indefinite" path="M 0,0 C -30,10 30,-10 0,0" />
+        <g>
+          <ellipse rx="7" ry="4" fill="#FFD700"/>
+          <path d="M -4 0 L -12 -6 L -12 6 Z" fill="#FFD700"/>
+          <circle cx="3" cy="-1.5" r="1.2" fill="white"/>
+          <!-- หายไปทันทีเมื่อปากวาฬมาถึง -->
+          <animate attributeName="opacity" values="1;1;0;0;1" 
+            keyTimes="0; 0.25; 0.25166666666666665; 0.99; 1" 
+            dur="30s" repeatCount="indefinite" />
+        </g>
+      </g>
+    </g>
+    <g transform="translate(720, 80)">
+      <g>
+        <!-- ปลาว่ายวนสุ่มไปมา (ไม่หยุดนิ่ง) -->
+        <animateMotion dur="3s" repeatCount="indefinite" path="M 0,0 C 15,-20 -15,-20 0,0" />
+        <g>
+          <ellipse rx="7" ry="4" fill="#69F0AE"/>
+          <path d="M -4 0 L -12 -6 L -12 6 Z" fill="#69F0AE"/>
+          <circle cx="3" cy="-1.5" r="1.2" fill="white"/>
+          <!-- หายไปทันทีเมื่อปากวาฬมาถึง -->
+          <animate attributeName="opacity" values="1;1;0;0;1" 
+            keyTimes="0; 0.36000000000000004; 0.3616666666666667; 0.99; 1" 
+            dur="30s" repeatCount="indefinite" />
+        </g>
+      </g>
+    </g>
+    <g transform="translate(810, 165)">
+      <g>
+        <!-- ปลาว่ายวนสุ่มไปมา (ไม่หยุดนิ่ง) -->
+        <animateMotion dur="3s" repeatCount="indefinite" path="M 0,0 L -10,10 L 10,0 Z" />
+        <g>
+          <ellipse rx="7" ry="4" fill="#40C4FF"/>
+          <path d="M -4 0 L -12 -6 L -12 6 Z" fill="#40C4FF"/>
+          <circle cx="3" cy="-1.5" r="1.2" fill="white"/>
+          <!-- หายไปทันทีเมื่อปากวาฬมาถึง -->
+          <animate attributeName="opacity" values="1;1;0;0;1" 
+            keyTimes="0; 0.5; 0.5016666666666667; 0.99; 1" 
+            dur="30s" repeatCount="indefinite" />
+        </g>
+      </g>
+    </g>
+
+  <!-- 5. THE HUNTER (วาฬ Pixel Art สมบูรณ์แบบ) -->
+  <g>
+    <animateMotion dur="30s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#whalePath"/>
+    </animateMotion>
+
+    <g transform="scale(1.7) translate(-20,-10)">
+      <!-- Tail -->
+      <g>
+        <rect x="-14" y="9"  width="12" height="6" fill="#0277BD" rx="1"/> 
+        <animateTransform attributeName="transform" type="rotate" values="-15 0 12; 15 0 12; -15 0 12" dur="0.4s" repeatCount="indefinite"/>
+      </g>
+      <!-- Body -->
+      <rect x="-2"  y="4"  width="32" height="16" fill="#00B0FF" rx="3"/> 
+      <rect x="2"   y="14" width="22" height="4"  fill="#B3E5FC" rx="2"/> 
+      <rect x="30"  y="6"  width="12" height="12" fill="#00B0FF" rx="3"/> 
+      <circle cx="37" cy="11" r="3" fill="white"/>
+      <circle cx="37.5" cy="11" r="1.4" fill="#01579B"/>
+      <!-- Fins -->
+      <rect x="14" y="1"  width="4" height="7" fill="#0288D1" rx="1">
+         <animateTransform attributeName="transform" type="skewY" values="-15;15;-15" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <!-- UI Scoreboard -->
+  <g transform="translate(40, 60)">
+    <text font-family="monospace" font-size="34" font-weight="bold" fill="white" style="filter: drop-shadow(3px 3px 2px black);">4d STREAK</text>
+    <text y="28" font-family="monospace" font-size="12" fill="#00E5FF" font-weight="bold">TOTAL: 133 | RANK: C</text>
+  </g>
+
+</svg>
