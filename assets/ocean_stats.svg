@@ -113,65 +113,65 @@
   
   <!-- ก้อนกรวดแบบสุ่ม -->
   
-    <circle cx="0" cy="360" r="4.408355656847294" fill="#546E7A"/>
+    <circle cx="0" cy="360" r="6.719452252130216" fill="#546E7A"/>
   
-    <circle cx="31" cy="373" r="3.778046493855684" fill="#546E7A"/>
+    <circle cx="31" cy="373" r="5.101331768825632" fill="#546E7A"/>
   
-    <circle cx="62" cy="386" r="7.715922844417527" fill="#546E7A"/>
+    <circle cx="62" cy="386" r="3.2935390802859295" fill="#546E7A"/>
   
-    <circle cx="93" cy="399" r="5.133999904327835" fill="#546E7A"/>
+    <circle cx="93" cy="399" r="4.944305913327204" fill="#546E7A"/>
   
-    <circle cx="124" cy="412" r="6.053343892996035" fill="#546E7A"/>
+    <circle cx="124" cy="412" r="7.889295452447825" fill="#546E7A"/>
   
-    <circle cx="155" cy="425" r="3.151821353533783" fill="#546E7A"/>
+    <circle cx="155" cy="425" r="7.749551068430731" fill="#546E7A"/>
   
-    <circle cx="186" cy="368" r="3.2383462145141744" fill="#546E7A"/>
+    <circle cx="186" cy="368" r="4.38460475862217" fill="#546E7A"/>
   
-    <circle cx="217" cy="381" r="7.859681099489594" fill="#546E7A"/>
+    <circle cx="217" cy="381" r="7.279655476193951" fill="#546E7A"/>
   
-    <circle cx="248" cy="394" r="3.2773707984962015" fill="#546E7A"/>
+    <circle cx="248" cy="394" r="7.859698054308419" fill="#546E7A"/>
   
-    <circle cx="279" cy="407" r="5.207417804512787" fill="#546E7A"/>
+    <circle cx="279" cy="407" r="5.895282339180718" fill="#546E7A"/>
   
-    <circle cx="310" cy="420" r="7.6939286947861225" fill="#546E7A"/>
+    <circle cx="310" cy="420" r="5.5952314772803975" fill="#546E7A"/>
   
-    <circle cx="341" cy="363" r="4.36813746617353" fill="#546E7A"/>
+    <circle cx="341" cy="363" r="4.830201925276015" fill="#546E7A"/>
   
-    <circle cx="372" cy="376" r="4.662754946104471" fill="#546E7A"/>
+    <circle cx="372" cy="376" r="7.088214058479163" fill="#546E7A"/>
   
-    <circle cx="403" cy="389" r="7.958153923416477" fill="#546E7A"/>
+    <circle cx="403" cy="389" r="3.0985077254765034" fill="#546E7A"/>
   
-    <circle cx="434" cy="402" r="5.96248808346903" fill="#546E7A"/>
+    <circle cx="434" cy="402" r="4.103731349217972" fill="#546E7A"/>
   
-    <circle cx="465" cy="415" r="4.779101605946524" fill="#546E7A"/>
+    <circle cx="465" cy="415" r="5.56588563052416" fill="#546E7A"/>
   
-    <circle cx="496" cy="428" r="6.7536859804350895" fill="#546E7A"/>
+    <circle cx="496" cy="428" r="6.520305193672096" fill="#546E7A"/>
   
-    <circle cx="527" cy="371" r="4.022943070793065" fill="#546E7A"/>
+    <circle cx="527" cy="371" r="3.248562832959128" fill="#546E7A"/>
   
-    <circle cx="558" cy="384" r="4.118702770116289" fill="#546E7A"/>
+    <circle cx="558" cy="384" r="3.3373829502637973" fill="#546E7A"/>
   
-    <circle cx="589" cy="397" r="4.07642187274913" fill="#546E7A"/>
+    <circle cx="589" cy="397" r="6.420247852063864" fill="#546E7A"/>
   
-    <circle cx="620" cy="410" r="6.937057125805383" fill="#546E7A"/>
+    <circle cx="620" cy="410" r="4.148912619179407" fill="#546E7A"/>
   
-    <circle cx="651" cy="423" r="5.231058805971157" fill="#546E7A"/>
+    <circle cx="651" cy="423" r="4.315113209674378" fill="#546E7A"/>
   
-    <circle cx="682" cy="366" r="4.701387122057643" fill="#546E7A"/>
+    <circle cx="682" cy="366" r="3.2136209314056914" fill="#546E7A"/>
   
-    <circle cx="713" cy="379" r="7.415637122458157" fill="#546E7A"/>
+    <circle cx="713" cy="379" r="4.568366349586499" fill="#546E7A"/>
   
-    <circle cx="744" cy="392" r="3.779465182859332" fill="#546E7A"/>
+    <circle cx="744" cy="392" r="4.801105156958002" fill="#546E7A"/>
   
-    <circle cx="775" cy="405" r="7.150572459895744" fill="#546E7A"/>
+    <circle cx="775" cy="405" r="6.665577005221063" fill="#546E7A"/>
   
-    <circle cx="806" cy="418" r="6.149002982100773" fill="#546E7A"/>
+    <circle cx="806" cy="418" r="6.910588136956749" fill="#546E7A"/>
   
-    <circle cx="837" cy="361" r="7.500250564464469" fill="#546E7A"/>
+    <circle cx="837" cy="361" r="3.0989684241780298" fill="#546E7A"/>
   
-    <circle cx="868" cy="374" r="4.985442123737126" fill="#546E7A"/>
+    <circle cx="868" cy="374" r="5.266630365380895" fill="#546E7A"/>
   
-    <circle cx="899" cy="387" r="6.354797456508748" fill="#546E7A"/>
+    <circle cx="899" cy="387" r="3.3584101127299197" fill="#546E7A"/>
   
 
   <!-- 3. ฟองอากาศ -->
@@ -221,111 +221,6 @@
         </g>
       </g>
     </g>
-    <g transform="translate(450, 55)">
-      <g>
-        <!-- ปลาว่ายวนสุ่มไปมา (ไม่หยุดนิ่ง) -->
-        <animateMotion dur="3s" repeatCount="indefinite" path="M 0,0 C -30,10 30,-10 0,0" />
-        <g>
-          <ellipse rx="7" ry="4" fill="#FFD700"/>
-          <path d="M -4 0 L -12 -6 L -12 6 Z" fill="#FFD700"/>
-          <circle cx="3" cy="-1.5" r="1.2" fill="white"/>
-          <!-- หายไปทันทีเมื่อปากวาฬมาถึง -->
-          <animate attributeName="opacity" values="1;1;0;0;1" 
-            keyTimes="0; 0.25; 0.25166666666666665; 0.99; 1" 
-            dur="30s" repeatCount="indefinite" />
-        </g>
-      </g>
-    </g>
-    <g transform="translate(720, 80)">
-      <g>
-        <!-- ปลาว่ายวนสุ่มไปมา (ไม่หยุดนิ่ง) -->
-        <animateMotion dur="3s" repeatCount="indefinite" path="M 0,0 C 15,-20 -15,-20 0,0" />
-        <g>
-          <ellipse rx="7" ry="4" fill="#69F0AE"/>
-          <path d="M -4 0 L -12 -6 L -12 6 Z" fill="#69F0AE"/>
-          <circle cx="3" cy="-1.5" r="1.2" fill="white"/>
-          <!-- หายไปทันทีเมื่อปากวาฬมาถึง -->
-          <animate attributeName="opacity" values="1;1;0;0;1" 
-            keyTimes="0; 0.36000000000000004; 0.3616666666666667; 0.99; 1" 
-            dur="30s" repeatCount="indefinite" />
-        </g>
-      </g>
-    </g>
-    <g transform="translate(810, 165)">
-      <g>
-        <!-- ปลาว่ายวนสุ่มไปมา (ไม่หยุดนิ่ง) -->
-        <animateMotion dur="3s" repeatCount="indefinite" path="M 0,0 L -10,10 L 10,0 Z" />
-        <g>
-          <ellipse rx="7" ry="4" fill="#40C4FF"/>
-          <path d="M -4 0 L -12 -6 L -12 6 Z" fill="#40C4FF"/>
-          <circle cx="3" cy="-1.5" r="1.2" fill="white"/>
-          <!-- หายไปทันทีเมื่อปากวาฬมาถึง -->
-          <animate attributeName="opacity" values="1;1;0;0;1" 
-            keyTimes="0; 0.5; 0.5016666666666667; 0.99; 1" 
-            dur="30s" repeatCount="indefinite" />
-        </g>
-      </g>
-    </g>
-    <g transform="translate(720, 250)">
-      <g>
-        <!-- ปลาว่ายวนสุ่มไปมา (ไม่หยุดนิ่ง) -->
-        <animateMotion dur="3s" repeatCount="indefinite" path="M 0,0 Q 20,0 0,20 Q -20,0 0,0" />
-        <g>
-          <ellipse rx="7" ry="4" fill="#FF4081"/>
-          <path d="M -4 0 L -12 -6 L -12 6 Z" fill="#FF4081"/>
-          <circle cx="3" cy="-1.5" r="1.2" fill="white"/>
-          <!-- หายไปทันทีเมื่อปากวาฬมาถึง -->
-          <animate attributeName="opacity" values="1;1;0;0;1" 
-            keyTimes="0; 0.64; 0.6416666666666667; 0.99; 1" 
-            dur="30s" repeatCount="indefinite" />
-        </g>
-      </g>
-    </g>
-    <g transform="translate(450, 275)">
-      <g>
-        <!-- ปลาว่ายวนสุ่มไปมา (ไม่หยุดนิ่ง) -->
-        <animateMotion dur="3s" repeatCount="indefinite" path="M 0,0 L 15,5 L -15,5 Z" />
-        <g>
-          <ellipse rx="7" ry="4" fill="#E040FB"/>
-          <path d="M -4 0 L -12 -6 L -12 6 Z" fill="#E040FB"/>
-          <circle cx="3" cy="-1.5" r="1.2" fill="white"/>
-          <!-- หายไปทันทีเมื่อปากวาฬมาถึง -->
-          <animate attributeName="opacity" values="1;1;0;0;1" 
-            keyTimes="0; 0.75; 0.7516666666666667; 0.99; 1" 
-            dur="30s" repeatCount="indefinite" />
-        </g>
-      </g>
-    </g>
-    <g transform="translate(180, 250)">
-      <g>
-        <!-- ปลาว่ายวนสุ่มไปมา (ไม่หยุดนิ่ง) -->
-        <animateMotion dur="3s" repeatCount="indefinite" path="M 0,0 C -20,-20 20,-20 0,0" />
-        <g>
-          <ellipse rx="7" ry="4" fill="#FF5252"/>
-          <path d="M -4 0 L -12 -6 L -12 6 Z" fill="#FF5252"/>
-          <circle cx="3" cy="-1.5" r="1.2" fill="white"/>
-          <!-- หายไปทันทีเมื่อปากวาฬมาถึง -->
-          <animate attributeName="opacity" values="1;1;0;0;1" 
-            keyTimes="0; 0.86; 0.8616666666666667; 0.99; 1" 
-            dur="30s" repeatCount="indefinite" />
-        </g>
-      </g>
-    </g>
-    <g transform="translate(90, 165)">
-      <g>
-        <!-- ปลาว่ายวนสุ่มไปมา (ไม่หยุดนิ่ง) -->
-        <animateMotion dur="3s" repeatCount="indefinite" path="M 0,0 L 10,10 L -10,10 Z" />
-        <g>
-          <ellipse rx="7" ry="4" fill="#FFD700"/>
-          <path d="M -4 0 L -12 -6 L -12 6 Z" fill="#FFD700"/>
-          <circle cx="3" cy="-1.5" r="1.2" fill="white"/>
-          <!-- หายไปทันทีเมื่อปากวาฬมาถึง -->
-          <animate attributeName="opacity" values="1;1;0;0;1" 
-            keyTimes="0; 0.9833333333333333; 0.985; 0.99; 1" 
-            dur="30s" repeatCount="indefinite" />
-        </g>
-      </g>
-    </g>
 
   <!-- 5. THE HUNTER (วาฬ Pixel Art สมบูรณ์แบบ) -->
   <g>
@@ -354,8 +249,8 @@
 
   <!-- UI Scoreboard -->
   <g transform="translate(40, 60)">
-    <text font-family="monospace" font-size="34" font-weight="bold" fill="white" style="filter: drop-shadow(3px 3px 2px black);">9d STREAK</text>
-    <text y="28" font-family="monospace" font-size="12" fill="#00E5FF" font-weight="bold">TOTAL: 153 | RANK: B</text>
+    <text font-family="monospace" font-size="34" font-weight="bold" fill="white" style="filter: drop-shadow(3px 3px 2px black);">0d STREAK</text>
+    <text y="28" font-family="monospace" font-size="12" fill="#00E5FF" font-weight="bold">TOTAL: 153 | RANK: D</text>
   </g>
 
 </svg>
