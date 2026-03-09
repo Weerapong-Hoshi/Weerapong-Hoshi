@@ -275,7 +275,7 @@
     <line x1="1100" y1="88" x2="1073.9669756529465" y2="142.05813207414513" stroke="#00E5FF" stroke-width="0.5" opacity="0.2"/>
     <line x1="1100" y1="88" x2="1041.5043252690905" y2="101.35125603737887" stroke="#00E5FF" stroke-width="0.5" opacity="0.2"/>
     <line x1="1100" y1="88" x2="1053.0901110519183" y2="50.590611888476" stroke="#00E5FF" stroke-width="0.5" opacity="0.2"/>
-<polygon points="1100,28 1118.7639555792327,73.0362447553904 1158.4956747309095,101.35125603737886 1100,88 1100,88 1100,88 1100,88" fill="#00E5FF" opacity="0.2" stroke="#00E5FF" stroke-width="1.5"/>
+<polygon points="1100,64 1146.9098889480817,50.59061188847599 1100,88 1100,88 1100,88 1100,88 1100,88" fill="#00E5FF" opacity="0.2" stroke="#00E5FF" stroke-width="1.5"/>
 <text x="1100" y="5" font-family="monospace" font-size="7" fill="#80DEEA" text-anchor="middle">M</text>
     <text x="1167.2375074922506" y="37.37987704014892" font-family="monospace" font-size="7" fill="#80DEEA" text-anchor="middle">T</text>
     <text x="1183.8438004476368" y="110.13680032024304" font-family="monospace" font-size="7" fill="#80DEEA" text-anchor="middle">W</text>
