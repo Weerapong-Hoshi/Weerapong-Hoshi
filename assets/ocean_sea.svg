@@ -275,7 +275,7 @@
     <line x1="1100" y1="88" x2="1073.9669756529465" y2="142.05813207414513" stroke="#00E5FF" stroke-width="0.5" opacity="0.2"/>
     <line x1="1100" y1="88" x2="1041.5043252690905" y2="101.35125603737887" stroke="#00E5FF" stroke-width="0.5" opacity="0.2"/>
     <line x1="1100" y1="88" x2="1053.0901110519183" y2="50.590611888476" stroke="#00E5FF" stroke-width="0.5" opacity="0.2"/>
-<polygon points="1100,28 1100,88 1100,88 1100,88 1100,88 1100,88 1090.6180222103837,80.51812237769519" fill="#00E5FF" opacity="0.2" stroke="#00E5FF" stroke-width="1.5"/>
+<polygon points="1100,28 1100,88 1100,88 1100,88 1100,88 1100,88 1081.2360444207673,73.0362447553904" fill="#00E5FF" opacity="0.2" stroke="#00E5FF" stroke-width="1.5"/>
 <text x="1100" y="5" font-family="monospace" font-size="7" fill="#80DEEA" text-anchor="middle">M</text>
     <text x="1167.2375074922506" y="37.37987704014892" font-family="monospace" font-size="7" fill="#80DEEA" text-anchor="middle">T</text>
     <text x="1183.8438004476368" y="110.13680032024304" font-family="monospace" font-size="7" fill="#80DEEA" text-anchor="middle">W</text>
@@ -306,8 +306,8 @@
 
   <!-- Stats Text -->
   <text x="38"  y="38" font-family="monospace" font-size="22" font-weight="bold" fill="#00E5FF" letter-spacing="2">LV 2</text>
-  <text x="120" y="38" font-family="monospace" font-size="13" fill="#80DEEA" letter-spacing="1">TOTAL 156 COMMITS</text>
-  <text x="420" y="38" font-family="monospace" font-size="13" fill="#80DEEA">TODAY +1</text>
+  <text x="120" y="38" font-family="monospace" font-size="13" fill="#80DEEA" letter-spacing="1">TOTAL 157 COMMITS</text>
+  <text x="420" y="38" font-family="monospace" font-size="13" fill="#80DEEA">TODAY +2</text>
 
   <text x="38" y="62" font-family="monospace" font-size="16" fill="#FF00FF" letter-spacing="1">STREAK 1d </text>
   
@@ -326,12 +326,12 @@
 
   <!-- XP Bar -->
   
-<text x="38" y="118" font-family="monospace" font-size="10" fill="#37474F">XP 56 / 100 TO NEXT LEVEL</text>
+<text x="38" y="118" font-family="monospace" font-size="10" fill="#37474F">XP 57 / 100 TO NEXT LEVEL</text>
 <rect x="38" y="122" width="500"    height="9" fill="#102027" rx="4"/>
-<rect x="38" y="122" width="280" height="9" fill="url(#xpG)" rx="4">
-  <animate attributeName="width" values="0;280" dur="1.4s" fill="freeze"/>
+<rect x="38" y="122" width="285" height="9" fill="url(#xpG)" rx="4">
+  <animate attributeName="width" values="0;285" dur="1.4s" fill="freeze"/>
 </rect>
-<rect x="38" y="122" width="280" height="4" fill="white" opacity="0.1" rx="4"/>
-<text x="322" y="131" font-family="monospace" font-size="9" fill="#00E5FF">56%</text>
+<rect x="38" y="122" width="285" height="4" fill="white" opacity="0.1" rx="4"/>
+<text x="327" y="131" font-family="monospace" font-size="9" fill="#00E5FF">57%</text>
 
 </svg>
