@@ -305,10 +305,10 @@
     <text x="30" y="182" font-family="monospace" font-size="10" fill="#80DEEA">NEXT UNLOCK: 🏰 Stone Castle</text>
     
 <rect x="30" y="187" width="320"    height="7" fill="#0D1B2A" rx="3"/>
-<rect x="30" y="187" width="160" height="7" fill="#8D6E63" rx="3">
-  <animate attributeName="width" values="0;160" dur="1.6s" fill="freeze"/>
+<rect x="30" y="187" width="163" height="7" fill="#8D6E63" rx="3">
+  <animate attributeName="width" values="0;163" dur="1.6s" fill="freeze"/>
 </rect>
-<text x="356" y="194" font-family="monospace" font-size="9" fill="#8D6E63">175/350</text>
+<text x="356" y="194" font-family="monospace" font-size="9" fill="#8D6E63">179/350</text>
 
   <!-- Unlocked landmark icons -->
   <text x="380" y="190" font-size="18" text-anchor="middle">🏖️</text><text x="425" y="190" font-size="18" text-anchor="middle">🗼</text><text x="470" y="190" font-size="18" text-anchor="middle">🏘️</text>
