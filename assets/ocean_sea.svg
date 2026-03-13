@@ -306,7 +306,7 @@
 
   <!-- Stats Text -->
   <text x="38"  y="38" font-family="monospace" font-size="22" font-weight="bold" fill="#00E5FF" letter-spacing="2">LV 2</text>
-  <text x="120" y="38" font-family="monospace" font-size="13" fill="#80DEEA" letter-spacing="1">TOTAL 162 COMMITS</text>
+  <text x="120" y="38" font-family="monospace" font-size="13" fill="#80DEEA" letter-spacing="1">TOTAL 163 COMMITS</text>
   <text x="420" y="38" font-family="monospace" font-size="13" fill="#80DEEA">TODAY +0</text>
 
   <text x="38" y="62" font-family="monospace" font-size="16" fill="#FF00FF" letter-spacing="1">STREAK 0d </text>
@@ -326,12 +326,12 @@
 
   <!-- XP Bar -->
   
-<text x="38" y="118" font-family="monospace" font-size="10" fill="#37474F">XP 62 / 100 TO NEXT LEVEL</text>
+<text x="38" y="118" font-family="monospace" font-size="10" fill="#37474F">XP 63 / 100 TO NEXT LEVEL</text>
 <rect x="38" y="122" width="500"    height="9" fill="#102027" rx="4"/>
-<rect x="38" y="122" width="310" height="9" fill="url(#xpG)" rx="4">
-  <animate attributeName="width" values="0;310" dur="1.4s" fill="freeze"/>
+<rect x="38" y="122" width="315" height="9" fill="url(#xpG)" rx="4">
+  <animate attributeName="width" values="0;315" dur="1.4s" fill="freeze"/>
 </rect>
-<rect x="38" y="122" width="310" height="4" fill="white" opacity="0.1" rx="4"/>
-<text x="352" y="131" font-family="monospace" font-size="9" fill="#00E5FF">62%</text>
+<rect x="38" y="122" width="315" height="4" fill="white" opacity="0.1" rx="4"/>
+<text x="357" y="131" font-family="monospace" font-size="9" fill="#00E5FF">63%</text>
 
 </svg>
