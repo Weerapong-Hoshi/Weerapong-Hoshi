@@ -308,7 +308,7 @@
 <rect x="30" y="187" width="149" height="7" fill="#8D6E63" rx="3">
   <animate attributeName="width" values="0;149" dur="1.6s" fill="freeze"/>
 </rect>
-<text x="356" y="194" font-family="monospace" font-size="9" fill="#8D6E63">163/350</text>
+<text x="356" y="194" font-family="monospace" font-size="9" fill="#8D6E63">164/350</text>
 
   <!-- Unlocked landmark icons -->
   <text x="380" y="190" font-size="18" text-anchor="middle">🏖️</text><text x="425" y="190" font-size="18" text-anchor="middle">🗼</text><text x="470" y="190" font-size="18" text-anchor="middle">🏘️</text>
