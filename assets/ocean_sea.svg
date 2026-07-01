@@ -3,9 +3,9 @@
   <defs>
     <!-- Water gradient -->
     <linearGradient id="waterG" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"   stop-color="#0D47A1"/>
-      <stop offset="50%"  stop-color="#1565C0"/>
-      <stop offset="100%" stop-color="#1976D2"/>
+      <stop offset="0%"   stop-color="#1A0533"/>
+      <stop offset="50%"  stop-color="#2E1065"/>
+      <stop offset="100%" stop-color="#1565C0"/>
     </linearGradient>
     <!-- XP bar gradient -->
     <linearGradient id="xpG" x1="0" y1="0" x2="1" y2="0">
@@ -28,13 +28,13 @@
   <!-- WAVES -->
   
 <!-- Wave layer 1 -->
-<path fill="#1565C0" opacity="0.5" d="M0,38 C200,22 400,54 600,38 C800,22 1000,54 1200,38 L1200,280 L0,280 Z">
+<path fill="#2E1065" opacity="0.5" d="M0,38 C200,22 400,54 600,38 C800,22 1000,54 1200,38 L1200,280 L0,280 Z">
   <animate attributeName="d"
       values="M0,38 C200,22 400,54 600,38 C800,22 1000,54 1200,38 L1200,280 L0,280 Z;M0,48 C200,64 400,32 600,48 C800,64 1000,32 1200,48 L1200,280 L0,280 Z;M0,38 C200,22 400,54 600,38 C800,22 1000,54 1200,38 L1200,280 L0,280 Z"
       dur="4.5s" begin="0s" repeatCount="indefinite"/>
 </path>
 <!-- Wave layer 2 -->
-<path fill="#1565C0" opacity="0.65" d="M0,55 C150,42 350,68 550,55 C750,42 950,68 1200,55 L1200,280 L0,280 Z">
+<path fill="#2E1065" opacity="0.65" d="M0,55 C150,42 350,68 550,55 C750,42 950,68 1200,55 L1200,280 L0,280 Z">
   <animate attributeName="d"
       values="M0,55 C150,42 350,68 550,55 C750,42 950,68 1200,55 L1200,280 L0,280 Z;M0,62 C150,76 350,50 550,62 C750,76 950,50 1200,62 L1200,280 L0,280 Z;M0,55 C150,42 350,68 550,55 C750,42 950,68 1200,55 L1200,280 L0,280 Z"
       dur="3.2s" begin="0s" repeatCount="indefinite"/>
@@ -46,7 +46,7 @@
       dur="3.2s" begin="0s" repeatCount="indefinite"/>
 </path>
 <!-- Deep surface -->
-<path fill="#0D47A1" opacity="0.8" d="M0,72 C100,64 300,80 500,72 C700,64 900,80 1200,72 L1200,280 L0,280 Z">
+<path fill="#1A0533" opacity="0.8" d="M0,72 C100,64 300,80 500,72 C700,64 900,80 1200,72 L1200,280 L0,280 Z">
   <animate attributeName="d"
       values="M0,72 C100,64 300,80 500,72 C700,64 900,80 1200,72 L1200,280 L0,280 Z;M0,78 C100,86 300,70 500,78 C700,86 900,70 1200,78 L1200,280 L0,280 Z;M0,72 C100,64 300,80 500,72 C700,64 900,80 1200,72 L1200,280 L0,280 Z"
       dur="2.8s" begin="0s" repeatCount="indefinite"/>
@@ -306,8 +306,8 @@
 
   <!-- Stats Text -->
   <text x="38"  y="38" font-family="monospace" font-size="22" font-weight="bold" fill="#00E5FF" letter-spacing="2">LV 2</text>
-  <text x="120" y="38" font-family="monospace" font-size="13" fill="#80DEEA" letter-spacing="1">TOTAL 188 COMMITS</text>
-  <text x="420" y="38" font-family="monospace" font-size="13" fill="#80DEEA">TODAY +1</text>
+  <text x="120" y="38" font-family="monospace" font-size="13" fill="#80DEEA" letter-spacing="1">TOTAL 189 COMMITS</text>
+  <text x="420" y="38" font-family="monospace" font-size="13" fill="#80DEEA">TODAY +2</text>
 
   <text x="38" y="62" font-family="monospace" font-size="16" fill="#FF00FF" letter-spacing="1">STREAK 1d </text>
   
@@ -326,12 +326,12 @@
 
   <!-- XP Bar -->
   
-<text x="38" y="118" font-family="monospace" font-size="10" fill="#37474F">XP 88 / 100 TO NEXT LEVEL</text>
+<text x="38" y="118" font-family="monospace" font-size="10" fill="#37474F">XP 89 / 100 TO NEXT LEVEL</text>
 <rect x="38" y="122" width="500"    height="9" fill="#102027" rx="4"/>
-<rect x="38" y="122" width="440" height="9" fill="url(#xpG)" rx="4">
-  <animate attributeName="width" values="0;440" dur="1.4s" fill="freeze"/>
+<rect x="38" y="122" width="445" height="9" fill="url(#xpG)" rx="4">
+  <animate attributeName="width" values="0;445" dur="1.4s" fill="freeze"/>
 </rect>
-<rect x="38" y="122" width="440" height="4" fill="white" opacity="0.1" rx="4"/>
-<text x="482" y="131" font-family="monospace" font-size="9" fill="#00E5FF">88%</text>
+<rect x="38" y="122" width="445" height="4" fill="white" opacity="0.1" rx="4"/>
+<text x="487" y="131" font-family="monospace" font-size="9" fill="#00E5FF">89%</text>
 
 </svg>
