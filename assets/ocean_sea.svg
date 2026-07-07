@@ -3,9 +3,9 @@
   <defs>
     <!-- Water gradient -->
     <linearGradient id="waterG" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"   stop-color="#0D47A1"/>
-      <stop offset="50%"  stop-color="#1565C0"/>
-      <stop offset="100%" stop-color="#1976D2"/>
+      <stop offset="0%"   stop-color="#01021A"/>
+      <stop offset="50%"  stop-color="#020B2B"/>
+      <stop offset="100%" stop-color="#030D35"/>
     </linearGradient>
     <!-- XP bar gradient -->
     <linearGradient id="xpG" x1="0" y1="0" x2="1" y2="0">
@@ -28,13 +28,13 @@
   <!-- WAVES -->
   
 <!-- Wave layer 1 -->
-<path fill="#1565C0" opacity="0.5" d="M0,38 C200,22 400,54 600,38 C800,22 1000,54 1200,38 L1200,280 L0,280 Z">
+<path fill="#020B2B" opacity="0.5" d="M0,38 C200,22 400,54 600,38 C800,22 1000,54 1200,38 L1200,280 L0,280 Z">
   <animate attributeName="d"
       values="M0,38 C200,22 400,54 600,38 C800,22 1000,54 1200,38 L1200,280 L0,280 Z;M0,48 C200,64 400,32 600,48 C800,64 1000,32 1200,48 L1200,280 L0,280 Z;M0,38 C200,22 400,54 600,38 C800,22 1000,54 1200,38 L1200,280 L0,280 Z"
       dur="4.5s" begin="0s" repeatCount="indefinite"/>
 </path>
 <!-- Wave layer 2 -->
-<path fill="#1565C0" opacity="0.65" d="M0,55 C150,42 350,68 550,55 C750,42 950,68 1200,55 L1200,280 L0,280 Z">
+<path fill="#020B2B" opacity="0.65" d="M0,55 C150,42 350,68 550,55 C750,42 950,68 1200,55 L1200,280 L0,280 Z">
   <animate attributeName="d"
       values="M0,55 C150,42 350,68 550,55 C750,42 950,68 1200,55 L1200,280 L0,280 Z;M0,62 C150,76 350,50 550,62 C750,76 950,50 1200,62 L1200,280 L0,280 Z;M0,55 C150,42 350,68 550,55 C750,42 950,68 1200,55 L1200,280 L0,280 Z"
       dur="3.2s" begin="0s" repeatCount="indefinite"/>
@@ -46,7 +46,7 @@
       dur="3.2s" begin="0s" repeatCount="indefinite"/>
 </path>
 <!-- Deep surface -->
-<path fill="#0D47A1" opacity="0.8" d="M0,72 C100,64 300,80 500,72 C700,64 900,80 1200,72 L1200,280 L0,280 Z">
+<path fill="#01021A" opacity="0.8" d="M0,72 C100,64 300,80 500,72 C700,64 900,80 1200,72 L1200,280 L0,280 Z">
   <animate attributeName="d"
       values="M0,72 C100,64 300,80 500,72 C700,64 900,80 1200,72 L1200,280 L0,280 Z;M0,78 C100,86 300,70 500,78 C700,86 900,70 1200,78 L1200,280 L0,280 Z;M0,72 C100,64 300,80 500,72 C700,64 900,80 1200,72 L1200,280 L0,280 Z"
       dur="2.8s" begin="0s" repeatCount="indefinite"/>
@@ -275,7 +275,7 @@
     <line x1="1100" y1="88" x2="1073.9669756529465" y2="142.05813207414513" stroke="#00E5FF" stroke-width="0.5" opacity="0.2"/>
     <line x1="1100" y1="88" x2="1041.5043252690905" y2="101.35125603737887" stroke="#00E5FF" stroke-width="0.5" opacity="0.2"/>
     <line x1="1100" y1="88" x2="1053.0901110519183" y2="50.590611888476" stroke="#00E5FF" stroke-width="0.5" opacity="0.2"/>
-<polygon points="1100,64 1146.9098889480817,50.59061188847599 1100,88 1100,88 1100,88 1100,88 1100,88" fill="#00E5FF" opacity="0.2" stroke="#00E5FF" stroke-width="1.5"/>
+<polygon points="1100,28 1100,88 1100,88 1100,88 1100,88 1100,88 1100,88" fill="#00E5FF" opacity="0.2" stroke="#00E5FF" stroke-width="1.5"/>
 <text x="1100" y="5" font-family="monospace" font-size="7" fill="#80DEEA" text-anchor="middle">M</text>
     <text x="1167.2375074922506" y="37.37987704014892" font-family="monospace" font-size="7" fill="#80DEEA" text-anchor="middle">T</text>
     <text x="1183.8438004476368" y="110.13680032024304" font-family="monospace" font-size="7" fill="#80DEEA" text-anchor="middle">W</text>
