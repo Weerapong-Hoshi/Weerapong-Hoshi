@@ -113,65 +113,65 @@
   
   <!-- ก้อนกรวดแบบสุ่ม -->
   
-    <circle cx="0" cy="360" r="4.802885366313181" fill="#546E7A"/>
+    <circle cx="0" cy="360" r="7.617332510647149" fill="#546E7A"/>
   
-    <circle cx="31" cy="373" r="3.528848869162497" fill="#546E7A"/>
+    <circle cx="31" cy="373" r="6.157086862210563" fill="#546E7A"/>
   
-    <circle cx="62" cy="386" r="6.700607405387738" fill="#546E7A"/>
+    <circle cx="62" cy="386" r="3.842350364947654" fill="#546E7A"/>
   
-    <circle cx="93" cy="399" r="5.30102647964895" fill="#546E7A"/>
+    <circle cx="93" cy="399" r="5.208181609267889" fill="#546E7A"/>
   
-    <circle cx="124" cy="412" r="5.721656719092586" fill="#546E7A"/>
+    <circle cx="124" cy="412" r="3.4345293623971234" fill="#546E7A"/>
   
-    <circle cx="155" cy="425" r="3.295527544010157" fill="#546E7A"/>
+    <circle cx="155" cy="425" r="6.012908691185779" fill="#546E7A"/>
   
-    <circle cx="186" cy="368" r="4.499456038556445" fill="#546E7A"/>
+    <circle cx="186" cy="368" r="3.2185973695012122" fill="#546E7A"/>
   
-    <circle cx="217" cy="381" r="7.5297072177324385" fill="#546E7A"/>
+    <circle cx="217" cy="381" r="7.16178242396998" fill="#546E7A"/>
   
-    <circle cx="248" cy="394" r="6.061424623161212" fill="#546E7A"/>
+    <circle cx="248" cy="394" r="7.941646538565396" fill="#546E7A"/>
   
-    <circle cx="279" cy="407" r="7.372747923982483" fill="#546E7A"/>
+    <circle cx="279" cy="407" r="5.484260404378926" fill="#546E7A"/>
   
-    <circle cx="310" cy="420" r="3.8887645203307803" fill="#546E7A"/>
+    <circle cx="310" cy="420" r="7.113322088168988" fill="#546E7A"/>
   
-    <circle cx="341" cy="363" r="7.014192968369372" fill="#546E7A"/>
+    <circle cx="341" cy="363" r="6.5596174651741155" fill="#546E7A"/>
   
-    <circle cx="372" cy="376" r="7.614969520614754" fill="#546E7A"/>
+    <circle cx="372" cy="376" r="7.642355165949885" fill="#546E7A"/>
   
-    <circle cx="403" cy="389" r="4.911044866063855" fill="#546E7A"/>
+    <circle cx="403" cy="389" r="3.429331245937891" fill="#546E7A"/>
   
-    <circle cx="434" cy="402" r="7.21545764960431" fill="#546E7A"/>
+    <circle cx="434" cy="402" r="5.357637586514182" fill="#546E7A"/>
   
-    <circle cx="465" cy="415" r="4.100974414314354" fill="#546E7A"/>
+    <circle cx="465" cy="415" r="4.469909041325131" fill="#546E7A"/>
   
-    <circle cx="496" cy="428" r="7.268734578556278" fill="#546E7A"/>
+    <circle cx="496" cy="428" r="5.028576927628337" fill="#546E7A"/>
   
-    <circle cx="527" cy="371" r="5.001033138095392" fill="#546E7A"/>
+    <circle cx="527" cy="371" r="7.730471295022164" fill="#546E7A"/>
   
-    <circle cx="558" cy="384" r="3.7864639645487213" fill="#546E7A"/>
+    <circle cx="558" cy="384" r="5.671881981981552" fill="#546E7A"/>
   
-    <circle cx="589" cy="397" r="3.6054349634365352" fill="#546E7A"/>
+    <circle cx="589" cy="397" r="5.384687664229789" fill="#546E7A"/>
   
-    <circle cx="620" cy="410" r="4.187865758350695" fill="#546E7A"/>
+    <circle cx="620" cy="410" r="5.10097229404555" fill="#546E7A"/>
   
-    <circle cx="651" cy="423" r="5.201407744071738" fill="#546E7A"/>
+    <circle cx="651" cy="423" r="6.892947339562705" fill="#546E7A"/>
   
-    <circle cx="682" cy="366" r="5.661689976527876" fill="#546E7A"/>
+    <circle cx="682" cy="366" r="3.951145059543206" fill="#546E7A"/>
   
-    <circle cx="713" cy="379" r="5.1718773798989" fill="#546E7A"/>
+    <circle cx="713" cy="379" r="3.395666294799165" fill="#546E7A"/>
   
-    <circle cx="744" cy="392" r="6.455475176739343" fill="#546E7A"/>
+    <circle cx="744" cy="392" r="6.405444944901374" fill="#546E7A"/>
   
-    <circle cx="775" cy="405" r="6.4596213301959935" fill="#546E7A"/>
+    <circle cx="775" cy="405" r="7.469490868060194" fill="#546E7A"/>
   
-    <circle cx="806" cy="418" r="6.084820276664697" fill="#546E7A"/>
+    <circle cx="806" cy="418" r="5.754254209666604" fill="#546E7A"/>
   
-    <circle cx="837" cy="361" r="5.844100439238517" fill="#546E7A"/>
+    <circle cx="837" cy="361" r="5.481303864267794" fill="#546E7A"/>
   
-    <circle cx="868" cy="374" r="6.710843142050038" fill="#546E7A"/>
+    <circle cx="868" cy="374" r="5.64027086348997" fill="#546E7A"/>
   
-    <circle cx="899" cy="387" r="4.218613428104338" fill="#546E7A"/>
+    <circle cx="899" cy="387" r="3.8074896443934176" fill="#546E7A"/>
   
 
   <!-- 3. ฟองอากาศ -->
@@ -249,7 +249,7 @@
 
   <!-- UI Scoreboard -->
   <g transform="translate(40, 60)">
-    <text font-family="monospace" font-size="34" font-weight="bold" fill="white" style="filter: drop-shadow(3px 3px 2px black);">1d STREAK</text>
+    <text font-family="monospace" font-size="34" font-weight="bold" fill="white" style="filter: drop-shadow(3px 3px 2px black);">0d STREAK</text>
     <text y="28" font-family="monospace" font-size="12" fill="#00E5FF" font-weight="bold">TOTAL: 196 | RANK: D</text>
   </g>
 
